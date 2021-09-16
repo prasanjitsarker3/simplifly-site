@@ -1,0 +1,32 @@
+.form-group{
+    height:350px;
+    width:400px;
+    border: 1px solid indigo;
+    align-items: center;
+    padding:20px;
+   margin-left: 450px;
+   margin-top: 100px;
+   background-color:rgb(70, 197, 191);
+   text-align: center;
+
+}
+.form-btn{
+    width:220px;
+    height:25px;
+    margin:5px;
+    padding:3px;
+    border-radius: 5px;
+    
+}
+.form-submit{
+    width:100px;
+    height:30px;
+    color: black;
+    font-size: 15px;
+}
+.form-googleBtn{
+    width:170px;
+    height:30px;
+    color: black;
+    font-size: 15px;
+}
